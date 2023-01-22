@@ -1,0 +1,14 @@
+{
+  "name": "Should-I-Use-A-Word-Cloud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MDeanLindsay/Should-I-Use-A-Word-Cloud.git",
+  "author": "Michael <michaeldeanlindsay@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
