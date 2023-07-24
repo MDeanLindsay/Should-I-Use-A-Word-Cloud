@@ -25,10 +25,10 @@ img {
   height: 50%;
   transform: translate(-50%, -50%);
   z-index: 9999; /* or any high value */
-  filter: drop-shadow(3px 0 0 black) 
-        drop-shadow(0 3px 0 black)
-        drop-shadow(-3px 0 0 black) 
-        drop-shadow(0 -3px 0 black);
+  filter: drop-shadow(1px 0 0 black) 
+        drop-shadow(0 1px 0 black)
+        drop-shadow(-1px 0 0 black) 
+        drop-shadow(0 -1px 0 black);
 }
 
 @media only screen and (max-width: 480px) {
